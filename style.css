@@ -1,0 +1,32 @@
+body {
+	 margin: 0;
+	 padding: 0;
+	 background-color: #f7f7f7;
+	 font-family: "Roboto", "Helvetica", Arial, sans-serif;
+}
+ #page_wrapper .header {
+	 background-color: #272727;
+	 display: flex;
+	 justify-content: flex-start;
+	 padding: 15px;
+   border-bottom: 3px solid #f7f7f7;
+}
+ #page_wrapper .header__title {
+	 color: #f7f7f7;
+	 font-size: 32px;
+	 font-weight: 700;
+}
+ .input-bar {
+	 width: 100%;
+}
+ .input-bar .input-element {
+	 width: 100%;
+	 height: 35px;
+	 line-height: 35px;
+	 font-size: 18px;
+}
+#todoList .todo{
+  width:80%;
+  margin:0 auto;
+
+}
